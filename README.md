@@ -4,7 +4,7 @@
 
 
   - [Active Directory Home Lab](https://github.com/MylesOkine/ActiveDirectoryLab)
-  - [Vulnerability Management with Nessus](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Vulnerability Management with Nessus](https://github.com/MylesOkine/VulnerabilityManagement)
   
 
 <h2>📄Certifications</h2>
